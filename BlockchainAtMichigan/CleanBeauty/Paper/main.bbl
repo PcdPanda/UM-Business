@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{ChinaReport}
 BeauCare Clinics First Cosmetic~Hospital China Data Research~Center, Chinese
@@ -15,8 +15,13 @@ Konstantinos Christidis and Michael Devetsikiotis.
 Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, and Nickolai
   Zeldovich.
 \newblock Algorand: Scaling byzantine agreements for cryptocurrencies.
-\newblock In {\em Proceedings of the 26th symposium on operating systems
-  principles}, pages 51--68, 2017.
+\newblock pages 51--68, 2017.
+
+\bibitem{Business}
+Raghava~Rao Mukkamala, Ravi Vatrapu, Pradeep~Kumar Ray, Gora Sengupta, and
+  Sankar Halder.
+\newblock Blockchain for social business: Principles and applications.
+\newblock {\em IEEE Engineering Management Review}, 46(4):94--99, 2018.
 
 \bibitem{Bitcoin}
 Satoshi Nakamoto.

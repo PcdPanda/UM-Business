@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.22)  9 JUN 2022 19:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.22)  18 JUN 2022 10:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -382,50 +382,55 @@ Package caption Info: End \AtBeginDocument code.
  [1
 
 {c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-<Workflow.jpg, id=94, 964.20226pt x 398.6895pt>
+<Workflow.jpg, id=128, 964.20226pt x 398.6895pt>
 File: Workflow.jpg Graphic file (type jpg)
 <use Workflow.jpg>
 Package pdftex.def Info: Workflow.jpg  used on input line 52.
 (pdftex.def)             Requested size: 433.88701pt x 179.40862pt.
  [3]
-<Appointment.jpg, id=102, 816.04875pt x 525.76425pt>
+<Appointment.jpg, id=136, 816.04875pt x 525.76425pt>
 File: Appointment.jpg Graphic file (type jpg)
 <use Appointment.jpg>
 Package pdftex.def Info: Appointment.jpg  used on input line 60.
 (pdftex.def)             Requested size: 408.02338pt x 262.88147pt.
  [4 <./Workflow.jpg> <./Appointment.jpg>]
-<InitialConsulting.jpg, id=111, 749.199pt x 387.24675pt>
+<InitialConsulting.jpg, id=145, 749.199pt x 387.24675pt>
 File: InitialConsulting.jpg Graphic file (type jpg)
 <use InitialConsulting.jpg>
-Package pdftex.def Info: InitialConsulting.jpg  used on input line 68.
+Package pdftex.def Info: InitialConsulting.jpg  used on input line 69.
 (pdftex.def)             Requested size: 374.59859pt x 193.6229pt.
-<SecondConsulting.jpg, id=112, 815.4465pt x 337.86224pt>
+<SecondConsulting.jpg, id=146, 815.4465pt x 337.86224pt>
 File: SecondConsulting.jpg Graphic file (type jpg)
 <use SecondConsulting.jpg>
-Package pdftex.def Info: SecondConsulting.jpg  used on input line 75.
+Package pdftex.def Info: SecondConsulting.jpg  used on input line 76.
 (pdftex.def)             Requested size: 407.72224pt x 168.9307pt.
- [5 <./InitialConsulting.jpg> <./SecondConsulting.jpg>] (./main.bbl [6]
-Underfull \hbox (badness 1688) in paragraph at lines 27--30
+ [5 <./InitialConsulting.jpg>] [6 <./SecondConsulting.jpg>] [7] (./main.bbl
+Underfull \hbox (badness 1242) in paragraph at lines 32--35
 []\OT1/cmr/m/n/10 International So-ci-ety of Aes-thetic Plas-tic Surg-eries.  Is-aps in-ter-na-tional sur-vey on aes-
  []
 
-) [7] (./main.aux)
+
+Underfull \hbox (badness 1325) in paragraph at lines 49--52
+[]\OT1/cmr/m/n/10 Gustavus J. Sim-mons.  Sym-met-ric and asym-met-ric en-cryp-tion.  \OT1/cmr/m/it/10 ACM Com-put. Surv.\OT1/cmr/m/n/10 ,
+ []
+
+) [8] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 20E3155840D6F9E7C96119813473DE4A;2084.
+(rerunfilecheck)             Checksum: BD47AFFBFEF9A5A8B85B86982D33D874;3000.
  ) 
 Here is how much of TeX's memory you used:
- 11843 strings out of 478276
- 192222 string characters out of 5850489
- 516882 words of memory out of 5000000
- 29874 multiletter control sequences out of 15000+600000
+ 11862 strings out of 478276
+ 192491 string characters out of 5850489
+ 516917 words of memory out of 5000000
+ 29883 multiletter control sequences out of 15000+600000
  475141 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,8n,79p,1380b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,8n,79p,1380b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (7 pages, 722351 bytes).
+Output written on main.pdf (8 pages, 729918 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
- 147 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 PDF objects out of 1000 (max. 8388607)
+ 185 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 205 words of extra memory for PDF output out of 10000 (max. 10000000)
 

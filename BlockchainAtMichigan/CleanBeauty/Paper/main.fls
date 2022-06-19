@@ -629,6 +629,7 @@ INPUT ./Appointment.jpg
 INPUT Appointment.jpg
 INPUT ./Appointment.jpg
 INPUT ./Appointment.jpg
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT ./InitialConsulting.jpg
 INPUT ./InitialConsulting.jpg
 INPUT InitialConsulting.jpg
@@ -643,7 +644,6 @@ INPUT ./main.bbl
 INPUT main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
