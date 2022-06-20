@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1655566928 "main.aux" "main.bbl" "main" 1655567196
+["bibtex main"] 1655611046 "main.aux" "main.bbl" "main" 1655611597
   "Reference.bib" 1655566679 9573 c952750ee23edc6101bf8d8fda72c1fb ""
   "c:/texlive/2021/texmf-dist/bibtex/bst/base/plain.bst" 1647977649 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1655567195 4644 2be457593c7005b11c2b2686c8632368 "pdflatex"
+  "main.aux" 1655611596 4644 0295d844a072b3c10332e5744a935beb "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1655567193 "e:/UMSI/UM-Business/BlockchainAtMichigan/CleanBeauty/Paper/main.tex" "main.pdf" "main" 1655567196
+["pdflatex"] 1655611595 "e:/UMSI/UM-Business/BlockchainAtMichigan/CleanBeauty/Paper/main.tex" "main.pdf" "main" 1655611597
   "Appointment.jpg" 1650767673 297452 693999adfe8538c76a76ed2d185cf749 ""
   "InitialConsulting.jpg" 1650767673 130344 57b7cd44f40613a6494f5821b3ee678c ""
   "SecondConsulting.jpg" 1650767673 178737 f256abac2b074b6a99b618d6cbba9406 ""
@@ -100,11 +100,11 @@
   "c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647980360 4448422 1ce8db434ffa4259b75148f2b12051ea ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1647980442 2826135 562c22789985e69ba85d5484241c8521 ""
   "c:/texlive/2021/texmf.cnf" 1647980345 713 e69b156964470283e0530f5060668171 ""
-  "e:/UMSI/UM-Business/BlockchainAtMichigan/CleanBeauty/Paper/main.tex" 1655567193 23781 dd03e93e138488f579578925a89bfa21 ""
-  "main.aux" 1655567195 4644 2be457593c7005b11c2b2686c8632368 "pdflatex"
-  "main.bbl" 1655566929 2002 733a469e12df363f1ff838392e1d1c84 "bibtex main"
-  "main.out" 1655567195 3000 bd47affbfef9a5a8b85b86982d33d874 "pdflatex"
-  "main.tex" 1655567193 23781 dd03e93e138488f579578925a89bfa21 ""
+  "e:/UMSI/UM-Business/BlockchainAtMichigan/CleanBeauty/Paper/main.tex" 1655611594 23573 6cb42293916d6252b397303aa411cf6e ""
+  "main.aux" 1655611596 4644 0295d844a072b3c10332e5744a935beb "pdflatex"
+  "main.bbl" 1655611046 2002 733a469e12df363f1ff838392e1d1c84 "bibtex main"
+  "main.out" 1655611596 3000 bd47affbfef9a5a8b85b86982d33d874 "pdflatex"
+  "main.tex" 1655611594 23573 6cb42293916d6252b397303aa411cf6e ""
   (generated)
   "main.aux"
   "main.log"
